@@ -1,4 +1,4 @@
-# ExerciceXpGold
+# DI Bootcamp - Week4 - Day3 - Exercises XP Gold
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
